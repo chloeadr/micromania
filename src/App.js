@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -16,37 +15,37 @@ function App() {
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item active">
-              <a class="nav-link menuLink" href="#">
+              <a class="nav-link menuLink" >
                 <span>Next Gen</span>
               </a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link menuLink" href="#">
+              <a class="nav-link menuLink" >
                 <span>Jeux vidéos</span>
               </a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link menuLink" href="#">
+              <a class="nav-link menuLink" >
                 <span>Produits dérivés</span>
               </a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link menuLink" href="#">
+              <a class="nav-link menuLink" >
                 <span>Digital</span>
               </a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link menuLink" href="#">
+              <a class="nav-link menuLink" >
                 <span>Occasion</span>
               </a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link menuLink" href="#">
+              <a class="nav-link menuLink" >
                 <span>Fanzone</span>
               </a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link menuLink" href="#">
+              <a class="nav-link menuLink" >
                 <span>Magasins</span>
               </a>
             </li>
@@ -57,7 +56,7 @@ function App() {
       {/* Subheader */}
       <div class="row">
         <div class="col-12 subheader d-flex justify-content-center align-items-center">
-          <a href="#" class="linkSubheader">FIFA 21 Ultimate disponible : jouez dès maintenant ! - Version next gen incluse</a>
+          <a  class="linkSubheader">FIFA 21 Ultimate disponible : jouez dès maintenant ! - Version next gen incluse</a>
         </div>
       </div>
 
