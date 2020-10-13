@@ -20,32 +20,32 @@ function App() {
               </a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link menuLink" >
+              <a class="nav-link menuLink" href="/#">
                 <span>Jeux vidéos</span>
               </a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link menuLink" >
+              <a class="nav-link menuLink" href="/#">
                 <span>Produits dérivés</span>
               </a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link menuLink" >
+              <a class="nav-link menuLink" href="/#" >
                 <span>Digital</span>
               </a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link menuLink" >
+              <a class="nav-link menuLink" href="/#" >
                 <span>Occasion</span>
               </a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link menuLink" >
+              <a class="nav-link menuLink" href="/#">
                 <span>Fanzone</span>
               </a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link menuLink" >
+              <a class="nav-link menuLink" href="/#">
                 <span>Magasins</span>
               </a>
             </li>
@@ -56,7 +56,7 @@ function App() {
       {/* Subheader */}
       <div class="row">
         <div class="col-12 subheader d-flex justify-content-center align-items-center">
-          <a  class="linkSubheader">FIFA 21 Ultimate disponible : jouez dès maintenant ! - Version next gen incluse</a>
+          <a  class="linkSubheader" href="/#">FIFA 21 Ultimate disponible : jouez dès maintenant ! - Version next gen incluse</a>
         </div>
       </div>
 
